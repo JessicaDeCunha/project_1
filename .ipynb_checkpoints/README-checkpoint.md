@@ -1,4 +1,6 @@
-# Impact of COVID-19: A Comparative Portfolio Analysis and a glimpse into the future
+# Project_1 - Group # 3
+
+## Impact of COVID-19: A Comparative Portfolio Analysis and a glimpse into the future
 
 ### Project Description:
 
